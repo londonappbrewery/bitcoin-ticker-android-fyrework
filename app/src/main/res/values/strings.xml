@@ -3,6 +3,7 @@
     <string name="label_default_text">304.74</string>
     <string name="label_error_text">Error</string>
     <string name="base">Base Currency</string>
+    <string name="crypto">Cryptocurrency</string>
     <string name="imageview_desc">Bitcoin Logo</string>
 
     <string-array name="currency_array">
@@ -21,5 +22,12 @@
         <item>ZAR</item>
     </string-array>
 
+    <string-array name="crypto_array">
+        <item>BTC</item>
+        <item>LTC</item>
+        <item>ETH</item>
+        <item>ZEC</item>
+        <item>XRP</item>
+    </string-array>
 
 </resources>
